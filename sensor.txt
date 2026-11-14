@@ -1,1 +1,3 @@
-Senssor Module Demo
+Sensor Module Demo
+Fixed Typo
+Module Updated from Remote
